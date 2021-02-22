@@ -1,4 +1,5 @@
 # Deep Learning - Feature Perturbation
+
 With the emergence of deep learning, neural networks have found applications in almost every field ranging from financial analytics to computer vision and speech recognition. However, a common problem cited with this machine learning model is interpretability - due to multiple non-linear transformations, it is difficult to understand the final result and what characteristics of the initial data led to it. Feature perturbation can help in analysing the effects of individual features on the final results. This is a simple and extremely efficient method which can allow deep learning researchers to comprehend the black box neural networks by directly relating the changes in input features with the final output. Such a method can have wide applications in various domains ranging from credit monitoring, banking solutions, sales forecasting, risk management etc. Let’s consider a few examples.
 
 ### Loan Applications -
@@ -12,3 +13,7 @@ In this work, I consider a simple case of feed forward network with N hidden lay
 ## Content - 
 * **FeaturePerturbation_Notes.pdf** - This file contains the mathematical formalism and final formulae used in the notebook. 
 * **FeaturePerturbation.ipynb** - This is a jupyter notebook which demonstrates this method on a test case. 
+
+
+# Caution - 
+This work is currently under development and still not completely tested, so please use it at your own caution. I do not take any responsibility of use of this work or results obtained from it. I plan to add further tests and some real world examples to demonstrate the applications of this method in future. If you enjoyed the project and would like to collaborate, please feel free to reach out. Also, if you wish to use it, please cite this repository. Thank you for checking out my work!
