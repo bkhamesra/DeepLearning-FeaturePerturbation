@@ -1,4 +1,4 @@
-# DeepLearning - FeaturePerturbation
+# Deep Learning - Feature Perturbation
 With the emergence of deep learning, neural networks have found applications in almost every field ranging from financial analytics to computer vision and speech recognition. However, a common problem cited with this machine learning model is interpretability - due to multiple non-linear transformations, it is difficult to understand the final result and what characteristics of the initial data led to it. Feature perturbation can help in analysing the effects of individual features on the final results. This is a simple and extremely efficient method which can allow deep learning researchers to comprehend the black box neural networks by directly relating the changes in input features with the final output. Such a method can have wide applications in various domains ranging from credit monitoring, banking solutions, sales forecasting, risk management etc. Let’s consider a few examples.
 
 ### Loan Applications -
