@@ -15,5 +15,5 @@ In this work, I consider a simple case of feed forward network with N hidden lay
 * **FeaturePerturbation.ipynb** - This is a jupyter notebook which demonstrates this method on a test case. 
 
 
-# Caution - 
-This work is currently under development and still not completely tested, so please use it at your own caution. I do not take any responsibility of use of this work or results obtained from it. I plan to add further tests and some real world examples to demonstrate the applications of this method in future. If you enjoyed the project and would like to collaborate, please feel free to reach out. Also, if you wish to use it, please cite this repository. Thank you for checking out my work!
+## Using This Work - 
+This work is currently under development and still not completely tested, so please use it at your own caution. I do not take any responsibility of use of this work or results obtained from it. I plan to improve this method, add further tests and some real world examples to demonstrate the applications of this method in future. If you enjoyed the project and would like to collaborate, please feel free to reach out. Also, if you wish to use it, please cite this repository. Thank you for checking out my work!
