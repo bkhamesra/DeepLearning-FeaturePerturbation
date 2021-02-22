@@ -10,5 +10,5 @@ With the emergence of deep learning, neural networks have found applications in 
 In this work, I consider a simple case of feed forward network with N hidden layers and develop the mathematical formalism to find the relation between perturbation of initial input and its effect on the final output. I first consider single feature perturbation and then extend the method to m features perturbation. To demonstrate, I consider a simple classifier to distinguish between positive and negative numbers and compute required changes in negative number to cross the zero boundary. 
 
 ## Content - 
-FeaturePerturbation_Notes.pdf - This file contains the mathematical formalism and final formulae used in the notebook. 
-FeaturePerturbation.ipynb - This is a jupyter notebook which demonstrates this method on a test case. 
+* **FeaturePerturbation_Notes.pdf** - This file contains the mathematical formalism and final formulae used in the notebook. 
+* **FeaturePerturbation.ipynb** - This is a jupyter notebook which demonstrates this method on a test case. 
